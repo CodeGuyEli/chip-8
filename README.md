@@ -1,8 +1,14 @@
-chip-8
+chip-8 emulator for the TI-Nspire
 ======
 
-An interpreter prototype. You will need [LÖVE](http://love2d.org/).
+This emulator is under development, but it can already play BLITZ nicely. 
 
+
+## Files ##
+
+- CHIP8.tns, current build
+- main.lua, emulator source code
+- decompile.lua, CHIP-8 decompiler
 
 ## References ##
 
