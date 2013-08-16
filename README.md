@@ -2,7 +2,7 @@ chip-8 emulator for the TI-Nspire
 ======
 
 This emulator is under development, but it can already play BLITZ nicely. 
-
+Forked from 2bt/chip-8, ported to the TI-Nspire API, improved stuff and fixed several bugs.
 
 ## Files ##
 
