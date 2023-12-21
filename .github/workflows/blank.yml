@@ -27,6 +27,6 @@ jobs:
       - uses: leafo/gh-actions-lua@v10
       # Runs a single command using the runners shell
       - name: Run the building script
-        run: pwd && bash build
+        run: ls .lua/ && pwd && bash build
         
      
