@@ -1,4 +1,4 @@
-#!/usr/bin/lua
+#!../.lua
 
 BUILDERV = 0.2
 
